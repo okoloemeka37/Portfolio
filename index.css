@@ -99,6 +99,12 @@ margin-right: 20%;
     font-weight: 500;
     font-size: 55px;
 }
+.typewrite{
+    color: white;
+    font-weight: 500;
+    font-size: 35px;
+    font-family: monospace;   
+}
 .any{
     background-image: url("images/cool-rm-2.png");
     background-size: 100% 100%;

@@ -648,9 +648,7 @@ flex-direction: column;
 .tag{
     font-size: 25px;
 }
-.nav{
-    justify-content: space-between;
-}
+
  .left{
     width: 70%;
     margin-left:5%;

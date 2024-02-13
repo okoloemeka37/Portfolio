@@ -5,7 +5,8 @@
 
 }
 body{
-    background-color: #008cff;
+    background-color: rgb(15, 123, 211); ;
+  
 }
 a{
     color: inherit;
@@ -17,6 +18,7 @@ a{
 background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='250' viewBox='0 0 1080 900'%3E%3Cg fill-opacity='0.03'%3E%3Cpolygon fill='%23444' points='90 150 0 300 180 300'/%3E%3Cpolygon points='90 150 180 0 0 0'/%3E%3Cpolygon fill='%23AAA' points='270 150 360 0 180 0'/%3E%3Cpolygon fill='%23DDD' points='450 150 360 300 540 300'/%3E%3Cpolygon fill='%23999' points='450 150 540 0 360 0'/%3E%3Cpolygon points='630 150 540 300 720 300'/%3E%3Cpolygon fill='%23DDD' points='630 150 720 0 540 0'/%3E%3Cpolygon fill='%23444' points='810 150 720 300 900 300'/%3E%3Cpolygon fill='%23FFF' points='810 150 900 0 720 0'/%3E%3Cpolygon fill='%23DDD' points='990 150 900 300 1080 300'/%3E%3Cpolygon fill='%23444' points='990 150 1080 0 900 0'/%3E%3Cpolygon fill='%23DDD' points='90 450 0 600 180 600'/%3E%3Cpolygon points='90 450 180 300 0 300'/%3E%3Cpolygon fill='%23666' points='270 450 180 600 360 600'/%3E%3Cpolygon fill='%23AAA' points='270 450 360 300 180 300'/%3E%3Cpolygon fill='%23DDD' points='450 450 360 600 540 600'/%3E%3Cpolygon fill='%23999' points='450 450 540 300 360 300'/%3E%3Cpolygon fill='%23999' points='630 450 540 600 720 600'/%3E%3Cpolygon fill='%23FFF' points='630 450 720 300 540 300'/%3E%3Cpolygon points='810 450 720 600 900 600'/%3E%3Cpolygon fill='%23DDD' points='810 450 900 300 720 300'/%3E%3Cpolygon fill='%23AAA' points='990 450 900 600 1080 600'/%3E%3Cpolygon fill='%23444' points='990 450 1080 300 900 300'/%3E%3Cpolygon fill='%23222' points='90 750 0 900 180 900'/%3E%3Cpolygon points='270 750 180 900 360 900'/%3E%3Cpolygon fill='%23DDD' points='270 750 360 600 180 600'/%3E%3Cpolygon points='450 750 540 600 360 600'/%3E%3Cpolygon points='630 750 540 900 720 900'/%3E%3Cpolygon fill='%23444' points='630 750 720 600 540 600'/%3E%3Cpolygon fill='%23AAA' points='810 750 720 900 900 900'/%3E%3Cpolygon fill='%23666' points='810 750 900 600 720 600'/%3E%3Cpolygon fill='%23999' points='990 750 900 900 1080 900'/%3E%3Cpolygon fill='%23999' points='180 0 90 150 270 150'/%3E%3Cpolygon fill='%23444' points='360 0 270 150 450 150'/%3E%3Cpolygon fill='%23FFF' points='540 0 450 150 630 150'/%3E%3Cpolygon points='900 0 810 150 990 150'/%3E%3Cpolygon fill='%23222' points='0 300 -90 450 90 450'/%3E%3Cpolygon fill='%23FFF' points='0 300 90 150 -90 150'/%3E%3Cpolygon fill='%23FFF' points='180 300 90 450 270 450'/%3E%3Cpolygon fill='%23666' points='180 300 270 150 90 150'/%3E%3Cpolygon fill='%23222' points='360 300 270 450 450 450'/%3E%3Cpolygon fill='%23FFF' points='360 300 450 150 270 150'/%3E%3Cpolygon fill='%23444' points='540 300 450 450 630 450'/%3E%3Cpolygon fill='%23222' points='540 300 630 150 450 150'/%3E%3Cpolygon fill='%23AAA' points='720 300 630 450 810 450'/%3E%3Cpolygon fill='%23666' points='720 300 810 150 630 150'/%3E%3Cpolygon fill='%23FFF' points='900 300 810 450 990 450'/%3E%3Cpolygon fill='%23999' points='900 300 990 150 810 150'/%3E%3Cpolygon points='0 600 -90 750 90 750'/%3E%3Cpolygon fill='%23666' points='0 600 90 450 -90 450'/%3E%3Cpolygon fill='%23AAA' points='180 600 90 750 270 750'/%3E%3Cpolygon fill='%23444' points='180 600 270 450 90 450'/%3E%3Cpolygon fill='%23444' points='360 600 270 750 450 750'/%3E%3Cpolygon fill='%23999' points='360 600 450 450 270 450'/%3E%3Cpolygon fill='%23666' points='540 600 630 450 450 450'/%3E%3Cpolygon fill='%23222' points='720 600 630 750 810 750'/%3E%3Cpolygon fill='%23FFF' points='900 600 810 750 990 750'/%3E%3Cpolygon fill='%23222' points='900 600 990 450 810 450'/%3E%3Cpolygon fill='%23DDD' points='0 900 90 750 -90 750'/%3E%3Cpolygon fill='%23444' points='180 900 270 750 90 750'/%3E%3Cpolygon fill='%23FFF' points='360 900 450 750 270 750'/%3E%3Cpolygon fill='%23AAA' points='540 900 630 750 450 750'/%3E%3Cpolygon fill='%23FFF' points='720 900 810 750 630 750'/%3E%3Cpolygon fill='%23222' points='900 900 990 750 810 750'/%3E%3Cpolygon fill='%23222' points='1080 300 990 450 1170 450'/%3E%3Cpolygon fill='%23FFF' points='1080 300 1170 150 990 150'/%3E%3Cpolygon points='1080 600 990 750 1170 750'/%3E%3Cpolygon fill='%23666' points='1080 600 1170 450 990 450'/%3E%3Cpolygon fill='%23DDD' points='1080 900 1170 750 990 750'/%3E%3C/g%3E%3C/svg%3E");
 height: 100vh;
 background-attachment: fixed;
+
 }
 .nav{
     display: flex;
@@ -24,7 +26,7 @@ background-attachment: fixed;
 
 padding-left: 15%;
 
-justify-content: space-between;
+
 padding-right: 15%;
 
 }
@@ -44,18 +46,13 @@ padding-right: 15%;
     padding-left: 12%;
     
 }
-.sticky .logo{
-    margin-right: 20%;
-}
-
-.logo{
-margin-right: 20%;
-}
 
 .bad{
     background-color: #50adf8;
     padding-left: 30px;
     padding-right: 30px;
+    width: fit-content;
+
 }
 
 .item{
@@ -64,6 +61,7 @@ margin-right: 20%;
     color: rgba(255, 255, 255, 0.521);
     margin-left: 10px;
     padding-top:20px ;
+    margin-left: 6%;
     padding-bottom: 20px;
 }
 .sticky .item{
@@ -101,6 +99,11 @@ margin-right: 20%;
 }
 .typewrite{
     color: white;
+    font-weight: 500;
+    font-size: 35px;
+    font-family: monospace;   
+}
+.tag{
     font-weight: 500;
     font-size: 35px;
     font-family: monospace;   
@@ -157,8 +160,9 @@ margin-right: 20%;
 
 /*about page*/
 #about{
-    padding-top: 8%;
+  
     background-color: whitesmoke;
+    height: 100vh;
 }
 .fg{
     display: flex;
@@ -193,15 +197,27 @@ margin-right: 20%;
     cursor: pointer;
 }
 
-.expen ,.skill{
-    display: none;
+.spt{
+  opacity: 0;
+    transform: translateY(50px);
+    transition: all 0.7s ease-out;
+    transition-delay: 0.2s;
+
+}
+.rev{
+   opacity: 1;
+    transform: translateY(0px);
 }
 .bout ,.skill, .expen{
+height: fit-content;
     margin-top: 20px;
     margin-left: 35px;
   
 }
 
+.dv{
+display: none;
+}
 
 .mine{
     font-size: 45px;
@@ -290,6 +306,9 @@ color:white;
 
 /*service part*/
 
+#service{
+    margin-bottom: 20%;
+}
 .first{
 margin-top: 15%;
 text-align: center;
@@ -559,10 +578,10 @@ margin-bottom: 2%;
 
 .elements {
     opacity: 0;
-    transform: translateY(200px);
+    transform: translateY(50px);
     transition: all 0.7s ease-out;
     transition-delay: 0.2s;
-
+height: 100vh;
 }
 
 .animate {
@@ -570,17 +589,37 @@ margin-bottom: 2%;
     transform: translateY(0);
 }
 
+.alf{
+    display: flex;
+    margin-left: 40%;
+    justify-content: space-between;
+}
+.agt{
+    padding-top: 40px;
+display: none;
+background-color: #0d86f8;
+position: fixed;
+}
 
+.on{
+    display: block;
+    padding-top: 40px;
+    position:absolute;
+    width: 140%;
+    background-color: #0d86f8;
+    z-index: 10;
+}
 
 /*smart phones*/
 @media only screen and (max-width: 480px) {
  body{
-    background-color: white;
+    overflow-x: hidden;
+    background-color: whitesmoke;
  }
  .baf{
     display: block;
  }
- .vc{
+ .alf{
     display: none;
  }
 
@@ -590,6 +629,7 @@ margin-bottom: 2%;
  .sticky .baf{
     margin-left: 30%;
  }
+ 
 .two{
 
 flex-direction: column;
@@ -599,15 +639,110 @@ flex-direction: column;
     width: 100%;
     margin-top: 20px;
 }
-
+.name{
+    font-size: 35px;
+}
+.typewrite{
+    font-size: 25px;
+}
+.tag{
+    font-size: 25px;
+}
+.nav{
+    justify-content: space-between;
+}
  .left{
-    width: 150%;
+    width: 70%;
     margin-left:5%;
     margin-top: 12%;
+    height: 100vh;
+    z-index: 1;
  }
  .any{
     width: 200%;
+    margin-left: 30%;
+    position: absolute;
+  
  }
+ .bad{
+    background-color: unset;
+    padding-left: 0px;
+    padding-right: 0px;
+    width: fit-content;
+
+}
+/* about page*/
+#about{
+    width: 150%;
+    height: fit-content;
+}
+
+.fg{
+    display:block;
+    
+    width: 100%;
+}
+.pp{
+    text-align:unset;
+    padding-left: 20px;
+    
+    margin-left: 0%;
+    background-color: rgb(233, 233, 233);
+}
+.pp img{
+    height: 100vh;
+}
+
+#service{
+    width: 150%;
+    height: fit-content;
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.iv{
+    margin-bottom: 10px;
+}
+.rs{
+    flex-direction: column;
+}
+.vh{
+    margin-left: 20%;
+    width: 50%;
+}
+.tn a{
+    margin-top: 5%;
+    display: block;
+   
+}
+
+
+
+#portfolio,#contact, .lower{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 150%;
+    background-color: white;
+    height: fit-content;
+}
+.pro{
+    padding-bottom: 30px;
+}
+.projects{
+    grid-template-columns: auto;
+}
+.split{
+    margin-left: 10%;
+}
+.rtm{
+    font-size: 10px;
+}
+.gd{
+    flex-direction: column;
+}
+.fj{
+    margin-top: 30px;
+}
 }
 
 @media only screen and (min-width: 480px) and (max-width:768px) {

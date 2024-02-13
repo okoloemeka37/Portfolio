@@ -24,7 +24,7 @@ background-attachment: fixed;
     display: flex;
 
 
-padding-left: 15%;
+padding-left: 3%;
 
 
 padding-right: 15%;
@@ -43,7 +43,7 @@ padding-right: 15%;
     width: 100%;
     top:0;
    z-index: 1000;
-    padding-left: 12%;
+    padding-left: 3%;
     
 }
 
@@ -627,7 +627,7 @@ position: fixed;
     width:155%;
  }
  .sticky .baf{
-    margin-left: 30%;
+    margin-left: 10%;
  }
  
 .two{

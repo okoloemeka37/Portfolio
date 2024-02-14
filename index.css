@@ -859,7 +859,7 @@ flex-direction: column;
 .two{
 
 flex-direction: column;
-
+margin-top:10px;
 }
 .two p{
     width: 40%;
@@ -877,12 +877,13 @@ flex-direction: column;
 
 .rm{
     width: 80%;
+    margin-top:10px;
 }
 
  .left{
     width: 70%;
     margin-left:5%;
-    margin-top: 12%;
+    margin-top: 4%;
     height: 100vh;
     z-index: 1;
  }

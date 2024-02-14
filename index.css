@@ -612,7 +612,7 @@ position: fixed;
 }
 
 /*smart phones*/
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 768px) and (orientation:portrait) {
  body{
     overflow-x: hidden;
     background-color: whitesmoke;
@@ -829,8 +829,220 @@ flex-direction: column;
 }
 }
 
-@media only screen and (min-width: 480px) and (max-width:768px) {
-    body{
-       background-color: rgb(138, 6, 6);
-    }
-   }
+@media only screen and (max-width: 768px) and (orientation:landscape) {
+ body{
+    overflow-x: hidden;
+    background-color: whitesmoke;
+ }
+ .baf{
+    display: block;
+    margin-left: 50%;
+ }
+ .alf{
+    display: none;
+ }
+
+ .hat{
+    width:155%;
+ }
+ .nav{
+    justify-content:unset;
+    padding-left: 5%;
+}
+.sticky{
+    padding-left: 5%;
+}
+ .sticky .baf{
+    margin-left: 20%;
+ }
+ 
+.two{
+
+flex-direction: column;
+
+}
+.two p{
+    width: 40%;
+    margin-top: 20px;
+}
+.name{
+    font-size: 25px;
+}
+.typewrite{
+    font-size: 17px;
+}
+.tag{
+    font-size: 17px;
+}
+
+.rm{
+    width: 80%;
+}
+
+ .left{
+    width: 70%;
+    margin-left:5%;
+    margin-top: 12%;
+    height: 100vh;
+    z-index: 1;
+ }
+ .any{
+    width: 170%;
+    margin-left: 10%;
+    position: absolute;
+  
+ }
+ .first{
+    margin-left: 0%;
+    text-align: unset;
+ }
+ .bad{
+    background-color: unset;
+    padding-left: 0px;
+    padding-right: 0px;
+    width: fit-content;
+
+}
+/* about page*/
+#about{
+    width: 150%;
+    height: fit-content;
+}
+
+.fg{
+    display:block;
+    
+    width: 100%;
+}
+.pp{
+    text-align:unset;
+    padding-left: 20px;
+    
+    margin-left: 0%;
+    background-color: rgb(233, 233, 233);
+}
+.pp img{
+    height: 100vh;
+   
+        margin-left: -40%;
+        width: 150%;
+    
+}
+.rom{
+    width: 60%;
+}
+.first{
+   
+    margin-left: 0%;
+    text-align: unset;
+ }
+ .ds{
+    width: 80%;
+    font-size: 20px;
+    margin-left: 5%;
+ }
+ #service .fr{
+    margin-left: 30%;
+ }
+ .vg{
+    width: 80%;
+ }
+
+#service{
+    width: 150%;
+    height: fit-content;
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.iv{
+    margin-bottom: 10px;
+}
+.rs{
+    flex-direction: column;
+    margin-left: 0%;
+}
+.vh{
+    margin-left: 10%;
+    width: 50%;
+}
+.tn a{
+    margin-top: 5%;
+    display: block;
+    margin-left: 20%;
+   
+}
+.tn{
+ width: 55%;
+ margin-left: 10%;
+}
+
+
+
+#portfolio,#contact, .lower{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 150%;
+    background-color: white;
+    height: fit-content;
+}
+#portfolio .fr{
+    margin-left: 30%;
+}
+
+.pro{
+    padding-bottom: 30px;
+}
+.projects{
+    grid-template-columns: auto;
+    margin-left: 0%;
+    margin-right: 20%;
+    padding: 20px;
+}
+.y{
+    margin-left: 25%;
+    margin-top: 10px;
+}
+.split{
+  display: none;
+}
+.th{
+    margin-left: 25%;
+}
+.rtm{
+    font-size: 13px;
+    margin-left: 11%;
+}
+.gd{
+    flex-direction: column;
+}
+.fj{
+    margin-top: 30px;
+}
+.kj{
+    margin-left: 0%;
+    display: block;
+}
+.fm{
+    margin-top: 20px;
+    width: 70%;
+}
+.fc{
+    margin-left: 4%;
+    width: 50%;
+}
+.sub{
+    margin-left: 40px;
+}
+.fig{
+    margin-left: 20%;
+}
+.link-2 {
+    margin-left: 5%;
+}
+
+.vl{
+    font-size: 14px;
+}
+}
+

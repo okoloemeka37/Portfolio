@@ -364,32 +364,8 @@ font-size: 18px;
     font-weight: 400;
     font-family: "Roboto", Arial, sans-serif;
 }
-.more{
-    margin-top: 7%;
-    margin-bottom: 10%;
-}
-.tn{
-    font-size: 16px;
-    font-weight: 800;
-    width: 70%;
-   
-    font-family: "Roboto", Arial, sans-serif;
-   margin-left: 15%;
-   color: rgb(129, 129, 129);
-}
-.tn a{
-    color: #0779e4;
-}
-.vh{
-    line-height: 29px;
-    font-size: 14px;
-        color: grey;
-        font-weight: 400;
-        font-family: "Roboto", Arial, sans-serif;
-        margin-left: 33%;
-        margin-top: 20px;
-        text-align: left;
-}
+
+
 
 
 

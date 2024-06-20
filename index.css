@@ -327,8 +327,8 @@ text-align: center;
 }
 
 .icon img{
-    width: 10%;
-    background-color: #008cff;
+    width: 20%;
+    margin-left: 30%;
     padding:10px;
   
 }
@@ -341,21 +341,23 @@ text-align: center;
     
 }
 .iv{
-    background-color: white;
+    background-color: rgba(243, 243, 243, 0.671);
     margin-right: 20px;
     padding: 30px;
     text-align: left;
-    height: 50vh;
+    height: fit-content;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 10px;
 }
 
 .tj{
-    margin-top: 20px;
+    margin-top: 10px;
     font-size: 20px;
     font-weight: 700;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     font-family: "Roboto", Arial, sans-serif;
-    color: #0779e4;
+    color: #ffffff;
+    margin-left: 20%;
 }
 .vg{
     line-height: 29px;
@@ -391,9 +393,10 @@ font-size: 18px;
 .pro{
     width: 80%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    background-color: white;
+    background-color: rgba(243, 243, 243, 0.671);
     padding: 10px;
     margin-top: 20px;
+    border-radius: 10px;
 }
 .op{
     width:100%;
@@ -1026,4 +1029,3 @@ margin-top:5px;
     font-size: 14px;
 }
 }
-
